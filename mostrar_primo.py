@@ -6,8 +6,8 @@ def mostrar_primo(x):
             div+=1
         y+=1
     if div==2:
-        print("es primo")
+        print("Es primo")
     else:
-        print("no es primo")
+        print("No es primo")
 
 mostrar_primo(4)
